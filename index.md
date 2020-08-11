@@ -18,4 +18,6 @@ Through the various links below you'll be able to see what I'm up too!
 [![Twitter Profile](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cmb84scd)
 [![github](https://img.shields.io/badge/github-%232A6AC7?style=for-the-badge&logo=github)](https://github.com/cmb84scd)
 [![Medium](https://img.shields.io/badge/Medium_blog-%2312100E?style=for-the-badge&amp;logo=medium&amp;logoColor=white)](https://medium.com/@cmb84scd)
+
+[![favourite projects](https://img.shields.io/badge/-Favourite_Projects-blueviolet?style=for-the-badge)](https://cmb84scd.github.io/favourites)
 [![projects](https://img.shields.io/badge/-Projects-blueviolet?style=for-the-badge)](https://cmb84scd.github.io/projects)
