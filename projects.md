@@ -5,7 +5,7 @@ Here are the projects that I've done. This isn't all of them but the ones I'm ha
 | Repo/Deployed site | Info | Tech |
 | --- | --- | --- |
 | [Katas - repo](https://github.com/cmb84scd/katas) | Katas that I have done since Makers. Currently these are just Codewars katas. | Ruby, Rspec |
-| [Simple Asset Tracker - repo](https://github.com/makersacademy/simpleassettracker) | Current post course project for Makers. | Python, Django, Selenium |
+| [Simple Asset Tracker - repo](https://github.com/makersacademy/simpleassettracker) | Current post course project for Makers. | Python, Django, django.test, Selenium |
 | [Cuppa Team - repo](https://github.com/cmb84scd/charity-apr2020) | Final group project done in weeks 11 and 12 at Makers. It is to help with the organisation of tea parties. To see deployed site please contact me. | MERN, Jest, Cypress |
 | [Tech tests - repo](https://github.com/cmb84scd/tech_tests) | Tech tests I have done including the one I did in week 10 at Makers. | Ruby, Rspec|
 | [Acebook - repo](https://github.com/cmb84scd/acebook-HoneyBunnies) [Acebook - deployed](https://acebook-honeybunnies.herokuapp.com/) | Third group project done in weeks 8 and 9 at Makers. A clone of Facebook. | Ruby, Rails, Rspec, Capybara, Psql |
