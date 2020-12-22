@@ -7,7 +7,7 @@ Here are the projects that I've done. This isn't all of them but the ones I'm ha
 
 | Repo/Deployed site | Info | Tech |
 | --- | --- | --- |
-| [Shopping Helper - repo](https://github.com/cmb84scd/shopping_helper) [Shopping Helper - deployed](https://shopping-help.herokuapp.com/) | A simple app to help you locate your items when doing your grocery shop. | Ruby, Rails, Rspec, Capybara, Psql |
+| [Shopping Helper - repo](https://github.com/cmb84scd/shopping_helper)<br>[Shopping Helper - deployed](https://shopping-help.herokuapp.com/) | A simple app to help you locate your items when doing your grocery shop. | Ruby, Rails, Rspec, Capybara, Psql |
 | [Katas - repo](https://github.com/cmb84scd/katas) | Katas that I have done since Makers. Currently these are just Codewars katas. | Ruby, Rspec |
 | [Simple Asset Tracker - repo](https://github.com/makersacademy/simpleassettracker) | Current post course project for Makers. It is to help with managing assets such as laptops etc. | Python, Django, Django.test, Selenium, Psql |
 | [Cuppa Team - repo](https://github.com/cmb84scd/charity-apr2020) | Final group project done in weeks 11 and 12 at Makers. It is to help with the organisation of tea parties. To see deployed site please contact me. | MERN, Jest, Cypress |
