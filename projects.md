@@ -1,3 +1,6 @@
+[![home](https://img.shields.io/badge/-Home-blueviolet?style=for-the-badge)](https://cmb84scd.github.io)
+[![favourite projects](https://img.shields.io/badge/-Favourite_Projects-blueviolet?style=for-the-badge)](https://cmb84scd.github.io/favourites)
+
 # Projects
 
 Here are the projects that I've done. This isn't all of them but the ones I'm happy with and like.
@@ -17,5 +20,3 @@ Here are the projects that I've done. This isn't all of them but the ones I'm ha
 | [Takeaway - repo](https://github.com/cmb84scd/takeaway-challenge) | Weekend challenge at the end of week 2 at Makers. | Ruby, Rspec |
 | [Airport - repo](https://github.com/cmb84scd/airport_challenge) | Weekend challenge at the end of week 1 at Makers. | Ruby, Rspec |
 | [Mazee - repo](https://github.com/cmb84scd/Mazee) | A maze game I made before starting at Makers | Python, pygame |
-
-[![home](https://img.shields.io/badge/-Home-blueviolet?style=for-the-badge)](https://cmb84scd.github.io)
