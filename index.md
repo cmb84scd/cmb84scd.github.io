@@ -9,9 +9,11 @@
 [![favourite projects](https://img.shields.io/badge/-Favourite_Projects-blueviolet?style=for-the-badge)](https://cmb84scd.github.io/favourites)
 [![projects](https://img.shields.io/badge/-Projects-blueviolet?style=for-the-badge)](https://cmb84scd.github.io/projects)
 
-## Junior Backend Software Developer
+## Junior Backend Software Engineer
 
-I'm moving into Software Development after spending over 16 years in retail. I used to look after 3 websites, two of which were originally in Word and I redid both in self taught HTML. This combined with me being thorough in my work led to a close friend suggesting programming.
+I am currently a Site Reliability Engineer at Dunelm where I've learnt all about AWS serverless, monitoring (DataDog) and good coding practices. It is a very demanding role due to both working on SRE projects and being embedded in an engineering team. However, I am not enjoying it as much now and have realised that I would like to focus more on the engineering side of things.
+
+I moved into Software Development after spending over 16 years in retail. I used to look after 3 websites, two of which were originally in Word and I redid both in self taught HTML. This combined with me being thorough in my work led to a close friend suggesting programming.
 
 When I took redundancy, I had just started to teach myself C#. I then quickly moved onto Python to get a better understanding of coding. I found I was really enjoying it and in particular seeing the code working! I knew this would be a good job to do going forwards, so I attended Makers Academy Bootcamp.
 
