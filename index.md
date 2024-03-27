@@ -11,7 +11,7 @@
 
 ## Junior Backend Software Engineer
 
-I am currently a Site Reliability Engineer at Dunelm where I've learnt all about AWS serverless, monitoring (DataDog) and good coding practices. It is a very demanding role due to both working on SRE projects and being embedded in an engineering team. However, I am not enjoying it as much now and have realised that I would like to focus more on the engineering side of things.
+I worked as a Site Reliability Engineer at Dunelm for over 2 1/2 years, where I've learnt all about AWS serverless, monitoring (DataDog) and good coding practices. It was a very demanding role due to both working on SRE projects and being embedded in an engineering team. Although I enjoyed it, I realised that I wanted to focus on the engineering side of things, so I'm now looking for a Software Engineer/Developer role.
 
 I moved into Software Development after spending over 16 years in retail. I used to look after 3 websites, two of which were originally in Word and I redid both in self taught HTML. This combined with me being thorough in my work led to a close friend suggesting programming.
 
