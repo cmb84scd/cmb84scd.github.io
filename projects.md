@@ -8,7 +8,7 @@ Here are the projects that I've done. This isn't all of them but the ones I'm ha
 | Repo | Info | Tech |
 | --- | --- | --- |
 | [Shopping Helper](https://github.com/cmb84scd/shopping_helper) | A simple app to help you locate your items when doing your grocery shop. | Ruby, Rails, Rspec, Capybara, Psql |
-| [Katas](https://github.com/cmb84scd/katas) | Katas that I have done since Makers. Currently these are just Codewars katas. | Ruby, Rspec |
+| [Katas](https://github.com/cmb84scd/katas) | Katas that I have done since Makers. Currently these are just Codewars katas. | Ruby, Rspec, Python, pytest, JavaScript, Jest |
 | [Simple Asset Tracker](https://github.com/makersacademy/simpleassettracker) | Current post course project for Makers. It is to help with managing assets such as laptops etc. | Python, Django, Django.test, Selenium, Psql |
 | [Cuppa Team](https://github.com/cmb84scd/charity-apr2020) | Final group project done in weeks 11 and 12 at Makers. It is to help with the organisation of tea parties. To see deployed site please contact me. | MERN, Jest, Cypress |
 | [Tech tests](https://github.com/cmb84scd/tech_tests) | Tech tests I have done including the one I did in week 10 at Makers. | Ruby, Rspec|
