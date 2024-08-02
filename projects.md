@@ -10,7 +10,7 @@ Here are the projects that I've done. This isn't all of them but the ones I'm ha
 | [Animal Fact API](https://github.com/cmb84scd/animal-fact-api) | A simple API that returns animal facts, a single fact and a random fact. | Python, Django, Django.test, Psql, Poetry, Just |
 | [Python Action](https://github.com/cmb84scd/python-action) | A GitHub Action to set up python, Poetry and Just, as well as install project dependencies using Just. | YAML |
 | [Cat Library](https://github.com/cmb84scd/cat-library) | A simple library, built during my time at Dunelm to help me understand how to layout a mono-repo TS project. | TS, Jest, Lerna |
-| [RPS with React](https://github.com/cmb84scd/rps-with-react) | Rock, Paper, Scissors game created in my early days at Dunelm. | TS, Jest, React |
+| [RPS with React](https://github.com/cmb84scd/rps-with-react) | Rock, Paper, Scissors game created in my early days at Dunelm. | TS, React, Jest |
 | [Shopping Helper](https://github.com/cmb84scd/shopping_helper) | A simple app to help you locate your items when doing your grocery shop. | Ruby, Rails, Rspec, Capybara, Psql |
 | [Katas](https://github.com/cmb84scd/katas) | Katas that I have done since Makers. Currently these are just Codewars katas. | Ruby, Rspec, Python, pytest, JavaScript, Jest |
 | [Simple Asset Tracker](https://github.com/makersacademy/simpleassettracker) | Post course project for Makers. It is to help with managing assets such as laptops etc. | Python, Django, Django.test, Selenium, Psql |
