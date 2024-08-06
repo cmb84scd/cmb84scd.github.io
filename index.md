@@ -1,4 +1,4 @@
-![Cat](images/Cat.jpg)
+![Cat](images/Cat.jpg) <!-- markdownlint-disable-line MD041 -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%232A6AC7?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/catriona-bennett-1089b31ab/)
 [![Twitter Profile](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cmb84scd)

@@ -1,4 +1,4 @@
-[![home](https://img.shields.io/badge/-Home-blueviolet?style=for-the-badge)](https://cmb84scd.github.io)
+[![home](https://img.shields.io/badge/-Home-blueviolet?style=for-the-badge)](https://cmb84scd.github.io) <!-- markdownlint-disable-line MD041 -->
 [![favourite projects](https://img.shields.io/badge/-Favourite_Projects-blueviolet?style=for-the-badge)](https://cmb84scd.github.io/favourites)
 
 # Projects
